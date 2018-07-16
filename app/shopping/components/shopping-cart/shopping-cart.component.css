@@ -1,0 +1,17 @@
+.thumbnail {
+    width:80px;
+    height: 80px;
+    border-radius: 100%;
+    background-size: cover; 
+}
+
+.btn-clear{
+    color: #727b84;
+    border-color: #727b84;
+    background-color: white;
+}
+
+.btn-clear:hover{
+    color: white;
+    background-color: #727b84;
+}
